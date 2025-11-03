@@ -15,7 +15,7 @@
 
 1.  **Клонирование Репозитория:**
     ```bash
-    git clone [ваша ссылка на HTTPS/SSH]
+    git clone https://github.com/SatanExist/MVVM.git
     ```
 2.  **Генерация Файлов Visual Studio (.sln):**
     * В папке проекта найдите файл `[ВашПроект].uproject`.
