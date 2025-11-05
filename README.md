@@ -18,10 +18,10 @@
     git clone https://github.com/SatanExist/MVVM.git
     ```
 2.  **Генерация Файлов Visual Studio (.sln):**
-    * В папке проекта найдите файл `[ВашПроект].uproject`.
+    * В папке проекта найдите файл `MVVM.uproject`.
     * **Правой кнопкой мыши** -> **Generate Visual Studio project files**.
 3.  **Сборка C++:**
-    * Откройте сгенерированный файл `.sln` в Visual Studio.
+    * Откройте сгенерированный файл `MVVM.sln` в Visual Studio.
     * Установите конфигурацию: **`Development Editor`** | **`Win64`**.
     * Соберите решение: **`Build`** -> **`Build Solution`**.
-4.  **Запуск:** После успешной сборки откройте проект двойным кликом по файлу `.uproject`.
+4.  **Запуск:** После успешной сборки откройте проект двойным кликом по файлу `MVVM.uproject`.
